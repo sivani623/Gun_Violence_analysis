@@ -12,10 +12,11 @@
    ```
 
 2. **Data Preparation:**
+   - https://drive.google.com/drive/folders/1YD_arwxQbeo9NxXMY-ZQJlbZJAHBLtpg?usp=sharing [dataset]
    - Update DATA_PATH variable to point to your dataset location
    - Ensure articles are organized by outlet folders
 
-3. **Execution:**
+4. **Execution:**
    - Run all cells in order
    - The notebook will process all tasks sequentially
    - Results and visualizations will be saved automatically
